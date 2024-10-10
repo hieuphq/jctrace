@@ -1,0 +1,10 @@
+.devbox
+.cache
+.ss
+build
+
+
+# gitignore for typescript
+node_modules
+dist
+
